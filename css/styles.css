@@ -1,0 +1,156 @@
+   body {
+     font-family: 'Rokkitt', serif;
+     background-color: #ffffff;
+     text-align: center;
+     margin: 0;
+   }
+
+   .avatar {
+     padding-top: 50px;
+     width: 10%;
+   }
+
+   h1 {
+     font-size: 5.625rem;
+     margin: 50px auto 0 auto;
+     font-family: 'Satisfy', cursive;
+     font-weight: lighter;
+     color: #66BFBF;
+   }
+
+   h2 {
+     font-family: 'Rokkitt', serif;
+     font-size: 2.500rem;
+     color: #66BFBF;
+     font-weight: normal;
+   }
+
+   h3 {
+     font-family: 'Rokkitt', serif;
+     color: #11999E;
+   }
+
+   a {
+     font-family: 'Rokkitt', serif;
+     color: #11999E;
+     font-size: 1.5rem;
+     text-decoration: none;
+     font-weight: bold;
+   }
+
+   p {
+     color: #50514E;
+     font-size: 1.2rem;
+   }
+
+   span {
+     text-decoration: underline;
+   }
+
+   .top-container {
+     position: relative;
+     padding-top: 100px;
+   }
+
+   .middle-container {}
+
+   .bottom-container {
+     background-color: #66BFBF;
+     padding: 50px;
+     word-spacing: 30px;
+   }
+
+   .top-cloud {
+     position: absolute;
+     padding-left: 250px;
+   }
+
+   .bottom-cloud {
+     position: absolute;
+   }
+
+   .skill-row {
+     margin: 100px auto 100px auto;
+     width: 50%;
+     text-align: left;
+     line-height: 2;
+   }
+
+   .img-1 {
+     width: 25%;
+     float: left;
+     margin-right: 30px;
+   }
+
+   .img-2 {
+     width: 25%;
+     float: right;
+     margin-left: 30px;
+   }
+
+   .img-3 {
+     width: 25%;
+     float: left;
+     margin-right: 30px;
+   }
+
+   .skills {
+     margin-top: 100px;
+   }
+
+   hr {
+     height: 2px;
+     width: 6%;
+     border-style: none none dotted none;
+     border-bottom-width: 10px;
+     color: #abbdbd;
+     margin-top: 100px;
+   }
+
+   .btn {
+     position: absolute;
+     top: 250px;
+     left: 700px;
+     box-shadow: 0 -1px 0 2px #a3b0d4;
+     background: linear-gradient(to bottom, #5c94bd 5%, #5c94bd 100%);
+     background-color: #5c94bd;
+     border-radius: 9px;
+     border: 1px solid #4e6096;
+     display: inline-block;
+     cursor: pointer;
+     color: #ffffff;
+     font-family: Arial;
+     font-size: 19px;
+     font-weight: bold;
+     padding: 12px 37px;
+     text-decoration: none;
+     text-shadow: 0 1px 0 #283966;
+   }
+
+   .btn:hover {
+     background: linear-gradient(to bottom, #66BFBF 5%, #6589c7 100%);
+     background-color: #476e9e;
+   }
+
+   .btn:active {
+     position: relative;
+     top: 1px;
+   }
+
+
+   .contact-me {
+     position: relative;
+     padding-bottom: 50px;
+     margin-top: 100px;
+     margin-bottom: 200px;
+   }
+
+   #name {
+     color: #EAF6F6;
+     word-spacing: normal;
+   }
+
+   #h2 {
+     margin-top: 100px;
+     margin-bottom: 50px;
+   }
